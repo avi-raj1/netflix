@@ -1,2 +1,2 @@
 # netflix
-A netflix clone
+A netflix clone based on react frontend and TMDB backend.
